@@ -1,0 +1,42 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+   background-image: url('./img/white_flower.jpg');
+   background-size: cover;
+   background-position: center center;
+   min-height: 100vh;
+   font-family: "poppins",sans-serif; 
+   display: flex;
+   flex-direction: column;
+   margin: 0;
+   align-items: center;
+   justify-content: center;
+   
+}
+
+.countdown-container{
+    display: flex;
+}
+
+h1{
+    font-size: 6rem;
+    margin-top: 1rem;
+    font-weight: bolder;
+}
+
+.big-text{
+    font-size: 6rem;
+    line-height: 2;
+    margin: 0 2.2rem;
+    font-weight: bolder;
+}
+
+span{
+    font-size: 1.6rem;
+    font-weight: bolder;
+    align-items: center;
+    margin: 32px;
+}
