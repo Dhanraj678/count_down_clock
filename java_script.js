@@ -1,5 +1,5 @@
 
-const newyear="1 Jan 2021 ";
+const newyear="17 Oct 2021 ";
 
 
 function countdown()
